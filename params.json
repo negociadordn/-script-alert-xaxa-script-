@@ -1,0 +1,6 @@
+{
+  "name": "<script>alert('xaxa')</script>",
+  "tagline": "<script>alert('xaxa')</script>",
+  "body": "<script>alert('xaxa')</script>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
